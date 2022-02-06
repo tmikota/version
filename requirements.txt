@@ -1,0 +1,8 @@
+# best practices modules
+black
+isort
+flake8
+mypy
+pytest
+pre-commit
+# other modules
